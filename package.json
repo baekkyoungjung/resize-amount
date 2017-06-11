@@ -1,0 +1,16 @@
+{
+  "name": "blog-bk",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-dropzone": "^3.13.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.5.1"
+  }
+}
